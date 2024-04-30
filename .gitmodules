@@ -1,0 +1,12 @@
+[submodule "snntorch"]
+	path = snntorch
+	url = https://github.com/GabrielBena/snntorch.git
+[submodule "pytorch-eventprop"]
+	path = pytorch-eventprop
+	url = https://github.com/GabrielBena/pytorch-eventprop.git
+[submodule "yin_yang_data_set"]
+	path = yin_yang_data_set
+	url = https://github.com/GabrielBena/yin_yang_data_set.git
+[submodule "pytorch-meta"]
+	path = pytorch-meta
+	url = https://github.com/GabrielBena/pytorch-meta.git
