@@ -13,3 +13,6 @@
 [submodule "py-spinnaker2"]
 	path = py-spinnaker2
 	url = https://gitlab.com/spinnaker2/py-spinnaker2.git
+[submodule "snn_maml"]
+	path = snn_maml
+	url = https://github.com/GabrielBena/snn_maml.git
