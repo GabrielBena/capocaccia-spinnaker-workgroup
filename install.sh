@@ -4,8 +4,8 @@ conda activate cc_spinn
 conda install pytorch torchvision torchaudio cpuonly -c pytorch
 pip install pyserial
 pip install matplotlib
-conda install ipywidgets
-conda install ipykernel
+pip install ipywidgets
+pip install ipykernel
 pip install tqdm
 
 pip install -e snntorch/
