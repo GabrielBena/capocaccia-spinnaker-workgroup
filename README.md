@@ -11,28 +11,19 @@ Then create your own environment. This could be done using conda or just running
 ```
 python -m env env
 ```
-With conda:
-```
-conda create -n venv
-```
-
 and then activate the environment:  
 ```
 source venv/bin/activate
 ```
-With conda:
-```
-activate venv
-```
+With conda, an environement called cc_spinn will be created when running the script.
 
-Then run the installer running:
+Run the installer running:
 ```
 bash pip_install.sh
 ```
-Or, with conda  
+Or for a conda install  
 ```
 bash conda_install.sh  
 ```
-
 ## Tutorials
 
