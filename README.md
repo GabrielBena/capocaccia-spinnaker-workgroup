@@ -27,7 +27,11 @@ activate venv
 
 Then run the installer running:
 ```
-bash install.sh
+bash pip_install.sh
+```
+Or, with conda  
+```
+bash conda_install.sh  
 ```
 
 ## Tutorials
