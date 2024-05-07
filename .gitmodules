@@ -13,3 +13,6 @@
 [submodule "snn_maml"]
 	path = snn_maml
 	url = ../snn_maml
+[submodule "torchopt"]
+	path = torchopt
+	url = git@github.com:GabrielBena/torchopt.git
